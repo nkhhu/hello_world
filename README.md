@@ -1,2 +1,3 @@
 # hello_world
-example
+
+Hi! My name is Khoa. i'm from Vietnamese
